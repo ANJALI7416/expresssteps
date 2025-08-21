@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "steps for express",
   "main": "express.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node express.js"
   },
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/ANJALI7416/expresssteps#readme",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
